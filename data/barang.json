@@ -1,0 +1,102 @@
+{
+    "barang": [
+        {
+            "kategori": "Mirrorless",
+            "nama": "Fujifilm X-S10",
+            "deskripsi": "Fujifilm X-S10 adalah kamera mirrorless di bawah Rp20 juta yang memiliki sebagian besar fitur-fitur yang ada pada kamera kelas atas, menggunakan sensor 26MP X-Trans CMOS Fujifilm yang telah teruji waktu dan memiliki stabilisasi gambar.",
+            "harga": "16.199.000",
+            "gambar": "E19a7433-018c-469f-8492-6e144947a81e.jpg"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Canon EOS R10",
+            "deskripsi": "Kualitas gambar dari R10 sangat bagus, menghasilkan JPEG khas Canon yang menarik. File Raw-nya juga menawarkan tingkat fleksibilitas pemrosesan yang wajar dan dapat menghasilkan rentang dinamis tinggi yang nyata. R10 juga dapat merekam video hingga 4K 60p dengan crop, atau 30p.",
+            "harga": "16.000.000",
+            "gambar": "Fdfdca76-0c63-43bb-80a2-e7d0f41425e8.jpg"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Fujifilm X-T30 II",
+            "deskripsi": "Layar sentuh yang dapat dimiringkan pada X-T30 II cukup responsif, dan memiliki fungsi khusus yang dapat ditetapkan ke 'gesekan' terarah. EVF beresolusi tinggi juga ada di kamera ini, sistem fokus otomatis cukup responsif dan dapat mendeteksi wajah dengan cukup baik, kualitas gambar yang dihasilkan juga terlihat baik dari kamera.",
+            "harga": "14.300.000",
+            "gambar": "53760322-ef751174-3eae-4a3b-9a73-be05df8e8d09-600-600.jpg"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Nikon Z50",
+            "deskripsi": "Kamera ini menawarkan layar sentuh berukuran 3,2 inch yang dapat dimiringkan. EVF nya juga berukuran layak, yang membuat kamera ini memang dirancang dengan baik untuk memotret, sistem fokus otomatis Z50 dipinjam dari kamera mirrorless full-frame generasi pertama Nikon, yang berarti memiliki Eye AF yang mengesankan dan pelacakan AF yang cukup konsisten. Kamera ini juga dapat merekam video hingga 4K, fokus otomatisnya juga bekerja dengan baik dalam video.",
+            "harga": "15.000.000",
+            "gambar": "996116fc91194cb193fdb3ac072b242f.png"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Panasonic Lumix DC-G100",
+            "deskripsi": "Panasonic Lumix DC-G100 adalah kamera Micro Four Thirds berbentuk DSLR kompak yang dirancang untuk selfie dan vlogging. G100 adalah salah satu kamera paling ringkas di kelasnya, meskipun stabilisasi dalam bodi dihilangkan. Mikrofonnya menggunakan teknologi deteksi wajah untuk menjaga agar audio terfokus pada subjek.",
+            "harga": "10.500.000",
+            "gambar": "b1502cf6dc684dc2a5572ce28f4e5a3d.png"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Lumix DC-GX9",
+            "deskripsi": "Kamera ini juga sudah dilengkapi 5-axis stabilization dalam body-nya dan dapat merekam hingga 4K, meskipun tidak ada jack untuk headphone atau mikrofon. Selain EVF yang dapat dimiringkan dengan cerdas, GX9 juga memiliki tampilan layar sentuh yang dapat dimiringkan dengan antarmuka yang mudah digunakan.",
+            "harga": "11.129.000",
+            "gambar": "3c2f48bb691a41dc885c66a9b1aefb72.png"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Sony a6100",
+            "deskripsi": "Dilengkapi dengan sensor 24MP, layar sentuh untuk penempatan fokus yang mudah dan pelacakan fokus otomatis Sony yang luar biasa, membuatnya sangat mudah untuk fokus pada orang dan hewan. Layar sentuhnya dapat diputar ke atas 180 derajat untuk pemotretan selfie atau vlogging. Sistem fokus otomatis Sony telah dilatih untuk mengenali orang dan hewan peliharaan sebagai subjek, dan akan mengikuti mereka dengan sempurna di seluruh bingkai.",
+            "harga": "10.000.999",
+            "gambar": "A279bc02-afed-4378-b6cf-b28a779dfaf2.jpg"
+        },
+        {
+            "kategori": "Mirrorless",
+            "nama": "Sony A6400",
+            "deskripsi": "Sistem fokus otomatis a6400 dipadukan dengan kecepatan burst yang tinggi, membuat kamera ini cocok untuk mengabadikan momen-momen penting. Hasil gambar JPEG a6400 juga menampilkan detail luar biasa dan warna yang lebih baik sehingga memberikan hasil akhir yang menarik. A6400 dapat merekam video hingga 4K dengan sangat mendetail namun terdapat crop dalam mode 30p. Kamera ini juga memiliki jack untuk mikrofon namun tidak ada untuk headphone.",
+            "harga": "12.000.000",
+            "gambar": "7514925-4ab238f9-4d52-45fb-8901-364f6fbfdd59-800-800.jpg"
+        },
+        {
+            "kategori": "DSLR",
+            "nama": "Nikon D6",
+            "deskripsi": "Nikon D6 merupakan salah satu kamera DSLR Nikon tercanggih yang pernah diproduksi dan dipasarkan. Tidak berlebihan rasanya mengingat kamera ini menyimpan segudang fitur dan teknologi modern. Salah satunya dapat dilihat melalui penggunaan CMOS Sensor FX-Format dengan resolusi 20.8MP.",
+            "harga": "110.199.000",
+            "gambar": "62ce98c81bc4d.webp"
+        },
+        {
+            "kategori": "DSLR",
+            "nama": "Nikon D5200",
+            "deskripsi": "Salah satu fitur menarik yang ditawarkan untuk fotografer pemula adalah layar LCD yang bisa diputar untuk memudahkan foto selfie. Jika dibandingkan dengan smartphone, tentu saja kualitas gambar selfie yang hadir dari kamera untuk fotografi ini punya tingkatan yang akan terlihat lebih baik. Untuk memenuhi kebutuhan tersebut, tentu saja kamera terkeren ini dirancang memiliki bobot yang cukup ringan. Hasil tangkapan dari kamera DSLR terbaik ini juga bisa dibilang cukup tajam. Fitur autofocus yang ditawarkan pada kamera yang layarnya bisa diputar ini juga akurat.",
+            "harga": "3.700.000",
+            "gambar": "6049ed2ce6843.webp"
+        },
+        {
+            "kategori": "DSLR",
+            "nama": "Canon EOS 6D Mark II",
+            "deskripsi": "EOS 6D Mark II telah lama digandrungi oleh penggemar kamera karena memiliki fitur-fiturnya sendiri yang sangat mengesankan. EOS 6D Mark II memilki sensor 26 megapiksel yang akan menangkap gambar kamu dengan hasil lebih baik, tetapi memiliki sistem Dual Pixel CMOS AF Canon, sehingga autofokus tampilan langsung sangat cepat dan efektif. Sistem AF jendela bidik 45 titik juga cukup bagus, meskipun semua titik fokus dikelompokkan ke arah tengah layar. EOS 6D Mark II dapat menangkap gambar pada 6,5 fps dalam mode burst. Fitur yang tidak kalah menariknya yaitu tampilan layar sentuh vari-angle yang sangat menarik akan menambah keyakinan kamu untuk memilikinya.",
+            "harga": "24.999.000",
+            "gambar": "61e8fd3b38aff.webp"
+        },
+        {
+            "kategori": "DSLR",
+            "nama": "Canon EOS 1300D",
+            "deskripsi": "Sebagai salah satu pelopor di dunia fotografi, Canon memiliki reputasi yang baik dalam memenuhi kebutuhan para fotografer profesional maupun orang yang punya hobi fotografi. Kerap kali merilis kamera DSLR terbaik, merk asal Jepang ini menawarkan jenis DSLR terbaik yang cocok untuk para pemula, yaitu Canon EOS 1300D. Salah satu keunggulan yang ditawarkan oleh kamera DSLR ini adalah bobotnya yang terbilang ringan untuk sekelas kamera fotografi. Dengan bobot yang ringan, kamera DSLR ini bisa jadi alternatif menarik bagi pemula yang ingin mengabadikan momen saat liburan. Meskipun ringan, bodi kamera DSLR ini terasa kokoh saat digenggam.",
+            "harga": "3.975.000",
+            "gambar": "5d79fc79c5586.webp"
+        },
+        {
+            "kategori": "DSLR",
+            "nama": "Sony DSC H300",
+            "deskripsi": "Untuk pengoperasiannya, salah satu kamera terkeren yang ada di pasar Indonesia ini juga cukup mudah digunakan. Jika terbiasa menggunakan kamera digital pada umumnya, pasti akan cepat memahami sistem operasi yang ditawarkan dari kamera satu ini. Meskipun terkesan mudah, kamu juga punya pilihan untuk mengoperaasikan kamera satu ini layaknya DSLR photo. Berbeda dengan kamera digital lainnya, produk dari merk kamera keluaran Jepang ini menambahkan fitur panorama 360 derajat. Fitur tersebut memungkinkan Anda untuk mengambil gambar alam secara luas dengan detail yang cukup jernih. Simpulannya, DSC H-300 termasuk dalam kategori kamera DSLR murah terbaik.",
+            "harga": "2.250.000",
+            "gambar": "6049f56f0fe5c.webp"
+        },
+        {
+            "kategori": "DSLR",
+            "nama": "Sony A7II",
+            "deskripsi": "Untuk hasil pengambilan gambar, salah satu kamera terbaik untuk fotografer ini dilengkapi dengan teknologi Bionz X yang dapat memproses hasil gambar yang cukup mengagumkan. Hasil proses tersebut juga dapat terlihat langsung melalui layar LCD 3 inci yang dapat diputar hingga 107 derajat. Fitur dari kamera yang layarnya bisa dilipat ini juga menjadi daya tarik bagi para pemula yang senang mengambil foto selfie. Terlebih lagi, salah satu DSLR terbaik ini juga dirancang menggunakan material magnesium yang ringan, kokoh, serta memiliki dimensi yang compact untuk dibawa ke mana-mana.",
+            "harga": "17.999.000",
+            "gambar": "6049f0d877fae.webp"
+        }
+    ]
+}
