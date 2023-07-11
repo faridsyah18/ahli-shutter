@@ -31,24 +31,25 @@ Berikut adalah struktur folder untuk proyek ini:
 
 ```
 Tugas5_[Faridsyah Al Muluk]/
-|- css
-| |- admin.css
-| |- style.css
-|
-|- data
-| |- barang.json
-|
-|- img
-|
-|- js
-| |- script.js
-|
-|- public
-| |- admin.php
-| |- ahlishutter.php
-| |- portal-admin.php
-|
-|- README.md
+|- App
+| |- css
+| | |- admin.css
+| | |- style.css
+| |
+| |- data
+| | |- barang.json
+| |
+| |- img
+| |
+| |- js
+| | |- script.js
+| |
+| |- public
+| | |- admin.php
+| | |- ahlishutter.php
+| | |- portal-admin.php
+| |
+| |- README.md
 ```
 
 ### Credit
